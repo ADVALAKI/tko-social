@@ -21,11 +21,7 @@
                                 'python': [],
                                 'bin': [],
                                 },
-    'init_xml': [],
-    'update_xml': [],
-    'css': [],
-    'demo_xml': [],
-    'test': [],
+    
     'data': [
         'views/email_cc_bcc_view.xml',
     ],
